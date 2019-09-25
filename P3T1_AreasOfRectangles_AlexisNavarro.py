@@ -1,6 +1,6 @@
 #The user is going to input the numbers for rectangle 1 length and wight.
-#The third and fourth line will ask the user to input numbers for the wight and length of the second rectangle.
-#Lines five and six will calculate the information of the user input in rectangle one and two.
+#The user will be asked again to input numbers for the wight and length of the second rectangle.
+#Than it will be calculated.
 #Than the final lines will show if recatngle one is greater than rectangle two or if they are the same.
 #CTI-110 
 #P3T1- Area of Rectangles 
